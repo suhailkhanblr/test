@@ -2,7 +2,7 @@
 <network-security-config>
     ...
     <domain-config cleartextTrafficPermitted="true">
-        <domain includeSubdomains="true">duet-classified.willdev.in</domain>
+        <domain includeSubdomains="true">test.vendido.in</domain>
     </domain-config>
     ...
 </network-security-config>
