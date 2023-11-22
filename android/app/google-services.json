@@ -1,50 +1,43 @@
 {
   "project_info": {
-    "project_number": "118794407923",
-    "firebase_url": "https://will-sell-classified-default-rtdb.firebaseio.com",
-    "project_id": "will-sell-classified",
-    "storage_bucket": "will-sell-classified.appspot.com"
+    "project_number": "440607219193",
+    "firebase_url": "https://vendido-new-aa289-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vendido-new-aa289",
+    "storage_bucket": "vendido-new-aa289.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:118794407923:android:9ba72f789f93697cfacc86",
+        "mobilesdk_app_id": "1:440607219193:android:db17de7a24f41361917128",
         "android_client_info": {
-          "package_name": "com.duet.classified.androidapp"
+          "package_name": "com.phoenixintellitech.vendido"
         }
       },
       "oauth_client": [
         {
-          "client_id": "118794407923-uv507gfpinrmgu839buikbqksfsmnnqe.apps.googleusercontent.com",
+          "client_id": "440607219193-7m4itigl4ddls834ho8gbv158h3hieoc.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.duet.classified.androidapp",
-            "certificate_hash": "e0707b7d4929f872b7ad11ef199a6be199556272"
+            "package_name": "com.phoenixintellitech.vendido",
+            "certificate_hash": "f5bc19ef9dee5c428ff990bb249efe951501b6a9"
           }
         },
         {
-          "client_id": "118794407923-jt99hoc2pq984ura3rvnq17lvukdnqhs.apps.googleusercontent.com",
+          "client_id": "440607219193-k16rbnkegmujg0a8h9bcols9q2qj6uvq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyARuUXN7TvMM8o1wimHk2VYE1diLJIFhvQ"
+          "current_key": "AIzaSyB_MBzs7_lEj-0ysHQyXNWVpq8O_Xzfe6c"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "118794407923-07khqu4k3o7jbiur7je6ibjkc2gr6n5i.apps.googleusercontent.com",
+              "client_id": "440607219193-k16rbnkegmujg0a8h9bcols9q2qj6uvq.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "118794407923-s99j5senc6k7ecdg01tgbpn2iqeqbnqt.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.duet.classified.iosapp"
-              }
             }
           ]
         }

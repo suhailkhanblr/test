@@ -1,4 +1,4 @@
-package com.duet.classified.androidapp
+package com.phoenixintellitech.vendido
 
 import io.flutter.embedding.android.FlutterActivity
 

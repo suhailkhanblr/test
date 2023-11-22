@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.duet.classified.androidapp">
+    package="com.phoenixintellitech.vendido">
 
     <application
-        android:label="Duet_Classified"
+        android:label="Vendido"
         android:icon="@mipmap/launcher_icon"
         android:networkSecurityConfig="@xml/network_security_config"
         tools:replace="android:label">

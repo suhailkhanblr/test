@@ -47,34 +47,34 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-      apiKey: "AIzaSyAkE3B_eLqG51pMLT9mgybCFJVLua5JJ6E",
-      authDomain: "will-sell-classified.firebaseapp.com",
-      databaseURL: "https://will-sell-classified-default-rtdb.firebaseio.com",
-      projectId: "will-sell-classified",
-      storageBucket: "will-sell-classified.appspot.com",
-      messagingSenderId: "118794407923",
-      appId: "1:118794407923:web:00bf7ef8f5ea136efacc86",
-      measurementId: "G-VBJ1WFYNXS"
+      apiKey: "AIzaSyA4V9kR8gnltCIa_pv2VJegwlVf13aXfpA",
+      authDomain: "vendido-new-aa289.firebaseapp.com",
+      databaseURL: "https://vendido-new-aa289-default-rtdb.asia-southeast1.firebasedatabase.app",
+      projectId: "vendido-new-aa289",
+      storageBucket: "vendido-new-aa289.appspot.com",
+      messagingSenderId: "440607219193",
+      appId: "1:440607219193:web:1b1eced5de709692917128",
+      measurementId: "G-4R726BW55W"
   );
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyARuUXN7TvMM8o1wimHk2VYE1diLJIFhvQ',
-    appId: '1:118794407923:android:9ba72f789f93697cfacc86',
-    messagingSenderId: '118794407923',
-    projectId: 'will-sell-classified',
-    databaseURL: 'https://will-sell-classified-default-rtdb.firebaseio.com',
-    storageBucket: 'will-sell-classified.appspot.com',
+    apiKey: 'AIzaSyB_MBzs7_lEj-0ysHQyXNWVpq8O_Xzfe6c',
+    appId: '1:440607219193:android:db17de7a24f41361917128',
+    messagingSenderId: '440607219193',
+    projectId: 'vendido-new-aa289',
+    databaseURL: 'https://vendido-new-aa289-default-rtdb.asia-southeast1.firebasedatabase.app',
+    storageBucket: 'vendido-new-aa289.appspot.com',
   );
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDpIsw3dn84pDYTwuje6hyavYQPNcrNAh4',
-    appId: '1:118794407923:ios:af09ed33464de5d7facc86',
-    messagingSenderId: '118794407923',
-    projectId: 'will-sell-classified',
-    databaseURL: 'https://will-sell-classified-default-rtdb.firebaseio.com',
-    storageBucket: 'will-sell-classified.appspot.com',
+    apiKey: 'AIzaSyAGbw4Jctmr8f88VqS6K8LFqWqfcDvlmFk',
+    appId: '1:440607219193:ios:9dbe22ab30579e5c917128',
+    messagingSenderId: '440607219193',
+    projectId: 'vendido-new-aa289',
+    databaseURL: 'https://vendido-new-aa289-default-rtdb.asia-southeast1.firebasedatabase.app',
+    storageBucket: 'vendido-new-aa289.appspot.com',
     androidClientId:
-    '118794407923-4e0ikbp8qjhg0hi3qp4o5semf9nvl8ib.apps.googleusercontent.com',
+    '440607219193-7m4itigl4ddls834ho8gbv158h3hieoc.apps.googleusercontent.com',
     iosClientId:
-    '118794407923-s99j5senc6k7ecdg01tgbpn2iqeqbnqt.apps.googleusercontent.com',
-    iosBundleId: 'com.duet.classified.iosapp',
+    '440607219193-dhep8pdpa35qkmaiiatb2d79p8chgvvv.apps.googleusercontent.com',
+    iosBundleId: 'vendido-new-aa289.appspot.com',
   );
 }

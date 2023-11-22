@@ -593,7 +593,7 @@ class _AccountTabState extends State<AccountTab> {
                 icon: Icons.share,
                 onTapFunc: () async {
                   await Share.share(
-                      'Download this Amazing application: https://play.google.com/store/apps/details?id=com.duet.classified.androidapp'); // Put Your App Url here.
+                      'Download this Amazing application: https://play.google.com/store/apps/details?id=com.phoenixintellitech.vendido'); // Put Your App Url here.
                 },
                 // trailing: Icon(
                 //   Icons.arrow_right,

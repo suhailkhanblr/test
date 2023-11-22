@@ -1,4 +1,4 @@
-group 'com.duet.classified.androidapp'
+group 'com.phoenixintellitech.vendido'
 
 buildscript {
     ext.kotlin_version = '1.7.20'
