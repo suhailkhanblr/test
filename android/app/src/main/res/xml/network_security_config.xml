@@ -2,7 +2,7 @@
 <network-security-config>
     ...
     <domain-config cleartextTrafficPermitted="true">
-        <domain includeSubdomains="true">vendido.in</domain>
+        <domain includeSubdomains="false">vendido.in</domain>
     </domain-config>
     ...
 </network-security-config>
